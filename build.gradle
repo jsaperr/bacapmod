@@ -24,9 +24,11 @@ dependencies {
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
     implementation 'com.github.jhg023:SimpleNet:1.6.6'
+    implementation 'com.github.dhiraj072:random-word-generator:1.1.0'
 
     include 'com.github.jhg023:SimpleNet:1.6.6'
     include 'com.github.jhg023:Pbbl:1.0.2'
+    include 'com.github.dhiraj072:random-word-generator:1.1.0'
 
 }
 
